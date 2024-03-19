@@ -50,7 +50,7 @@
     "@acab/reset.css": "^0.7.0",
     "@preact/signals": "^1.2.1",
     "clsx": "^2.0.0",
-    "dns-over-http-resolver": "^2.1.2",
+    "dns-over-http-resolver": "^3.0.2",
     "filsnap-adapter": "*",
     "filsnap-adapter-react": "*",
     "iso-base": "^2.0.1",
