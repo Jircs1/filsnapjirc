@@ -58,7 +58,7 @@
     "preact": "^10.17.1",
     "react-hook-form": "^7.46.2",
     "viem": "^1.16.2",
-    "wagmi": "^1.4.2",
+    "wagmi": "^2.0.1",
     "water.css": "^2.1.1"
   },
   "devDependencies": {
